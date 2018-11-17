@@ -4,3 +4,4 @@ Laboratorium github1
 * HelloW.java
 * test.txt
 * README
+![logo github](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
